@@ -1,3 +1,5 @@
+const spy = "hello"
+
 function shout(string) {
   return string.toUpperCase()
 }
