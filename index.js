@@ -8,7 +8,7 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  var spy = shout(spy)
-  console.log(spy)
+  string === shout(string)
+  console.log()
 }
 
