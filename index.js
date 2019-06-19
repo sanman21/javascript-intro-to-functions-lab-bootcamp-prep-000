@@ -24,5 +24,6 @@ function sayHiToGrandma(string) {
      console.log('YES INDEED')
   }
   else {
-    
+    console.log('YES INDEED')
   }
+}
