@@ -21,6 +21,6 @@ function sayHiToGrandma(string) {
     console.log("I can\'t hear you!")
   }
   else{
-     console.log("YES INDEED")
+     console.log('YES INDEED')
   }
 }
